@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains/>
+        <role display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>nagateja.mondreti</sys_created_by>
+        <sys_created_on>2023-01-04 13:45:08</sys_created_on>
+        <sys_id>df990e3f2f4861102af855f62799b69f</sys_id>
+        <sys_name>.user</sys_name>
+        <sys_package display_value="Bikes" source="x_357365_bikes">1ce2c6772f4861102af855f62799b6da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bikes">1ce2c6772f4861102af855f62799b6da</sys_scope>
+        <sys_update_name>sys_user_role_contains_df990e3f2f4861102af855f62799b69f</sys_update_name>
+    </sys_user_role_contains>
+</record_update>
